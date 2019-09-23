@@ -1,0 +1,15 @@
+Sigma, Σ
+
+      m
+      Σ
+     i=1
+    
+m = the number the function will stop at when reached 
+i = the intiger at which the function will start, and will always increment by a factor of exactly 1
+
+For example:
+
+       5
+       Σ   = 2+3+4+5+
+      i=2 
+The output of this function would be 14 (2+3+4+5), because we start at 2 and increment by one until we reach 5
